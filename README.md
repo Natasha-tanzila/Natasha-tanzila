@@ -83,7 +83,8 @@ I have experience across the **entire research-to-deployment pipeline** — from
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natasha-Monalisa&show_icons=true&theme=default" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Natasha-Monalisa&show_icons=true&theme=default](https://github-readme-stats.vercel.app/api?username=Natasha-tanzila
+)" />
 </p>
 
 ---
