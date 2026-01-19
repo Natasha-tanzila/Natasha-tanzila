@@ -98,7 +98,7 @@ I’m open to:
 
 📧 **Email:** natasha.tanzila786@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/natasha-tanzila  
-📖 **Google Scholar:** https://scholar.google.com/
+📖 **Google Scholar:** [https://scholar.google.com](https://scholar.google.com/citations?user=rX09xvMAAAAJ&hl=en)/
 
 ---
 
