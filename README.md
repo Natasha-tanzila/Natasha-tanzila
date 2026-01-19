@@ -9,7 +9,7 @@
   <a href="https://github.com/Natasha-Monalisa">
     <img src="https://img.shields.io/github/followers/Natasha-Monalisa?label=Followers&style=flat-square" />
   </a>
-  <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=rX09xvMAAAAJ&hl=en)">
+  <a href="[https://scholar.google.com/citations?user=rX09xvMAAAAJ&hl=en"] />
      <img src="https://img.shields.io/badge/Google%20Scholar-Publications-blue?style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/natasha-tanzila">
