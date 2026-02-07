@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Natasha-Monalisa">
+  <a href="[https://github.com/Natasha-Monalisa](https://www.facebook.com/Natzuuuuuuu/)">
     <img src="https://www.facebook.com/Natzuuuuuuu/">
   </a>
   <a href="https://scholar.google.com/citations?user=rX09xvMAAAAJ&hl=en">
