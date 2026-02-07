@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Natasha-Monalisa">
-    <img src="https://www.facebook.com/Natzuuuuuuu/" />
+    <img src="https://www.facebook.com/Natzuuuuuuu/">
   </a>
   <a href="https://scholar.google.com/citations?user=rX09xvMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-blue?style=flat-square" />
